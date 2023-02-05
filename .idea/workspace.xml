@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896e4f91-4d2d-44dc-8626-b51e6ac705d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/CashbackHackServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
@@ -65,7 +64,7 @@
       <recent name="ru.netology" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemain (1)">
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemainSecond">
     <configuration name="CashbackHackServiceTest.negativeTestRemain" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -112,8 +111,32 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="CashbackHackServiceTest.testRemainSecond" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.CashbackHackServiceTest.testRemainSecond&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemainSecond" />
         <item itemvalue="Gradle.CashbackHackServiceTest.testRemain (1)" />
         <item itemvalue="Gradle.CashbackHackServiceTest.negativeTestRemain" />
       </list>
